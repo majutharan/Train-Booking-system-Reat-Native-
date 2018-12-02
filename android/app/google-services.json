@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "557615730724",
+    "firebase_url": "https://react-native-c6434.firebaseio.com",
+    "project_id": "react-native-c6434",
+    "storage_bucket": "react-native-c6434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557615730724:android:a00b9b5371064bc4",
+        "android_client_info": {
+          "package_name": "com.touristguider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557615730724-mk99gjb1ucdpnnq64ekms7ufd9uu9757.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWm2gy_72EQrJO4yKinbhDpG-5Yl455rM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

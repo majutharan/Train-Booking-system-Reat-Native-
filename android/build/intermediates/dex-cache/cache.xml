@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_7beebe1c1c8c34b7a4be3ec3719b106c6d08fd27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/7e409eebe0d468542f07966f55607154eaa1f829/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_7d7fcbab349476ce6bc2784248a33beeee965b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/fb945f408167c7d95c690b3ac6e028cefb0dee42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_c33081558fb4cfd2abc5392502b38e0930ad27b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_6061109ca807739dc1229790b2a326283d597a57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_4fae03e1effa359888da34e233ed96d332d1143e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/9027febd4d8bbeba3d6daf165406bbe1edddf5b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_020af94481c87a119f9955ce8281615a6c96e7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8f268906da65a775f1ebf38127b2f18b8fadc6ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_312b7e0eb116ae13ee80b713b38b3066d298c8b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/e21440c6fde9453bc1367bf383d791ffb3aa4775/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_b53e64b2375e308be1b3aee3b54ff23034f19858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/7f49c44d4d706ac9788fcb9169c8d922277268ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_ec8589a3efa5c8ad7acc4dbcd4ca7acae8e80a0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_66bc7ba826d4d198ee68e83a033528dd6c4ecb9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/faf8a8418737a82635eac41f5383b80e5c92204f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_543d971b595bae98e9e579d12a35465ebb2f5cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/cf76101593a01d845ee3aadd6bbb7902fc641fc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_fb12e8555ddff2603495b75479fdd3b9691cf15a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/f442129acfb42a9b196ec2f04aacb726934db518/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_7e1735bf113aca287bf2adce8fdcf400a7dcafd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/a2446c3273bd7ab295302e25afd3fd5db50d2320/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_c6b5fdeb07aa5af19737adca43878afe6ec649db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_e8567808deded520eb74e040f15478e3c00fa138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_afa296373d37e0b6a78520d8690ca80bfb67c8f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/5a2a17a53137218db72c6b92b1dace5fb1a084a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_23b106a11b1c33442f1915c6087b2985db3ce296.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/9e9ffac2f828b5a13db9af6980d973ef93368c83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_c1209b9e82556be32f14cb4a68ae1447d42c832c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/a4531b0a186bab188923eed354a2b30177c9f46d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_fad5a007564d5050070d752eb9ea3ee4c2742443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/101b7a81ab1f23f315f833a9f63046ce7de97039/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_2f191cf169b33cdacbecdc4790a4d45a1d98b8d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/a98010c91ac7c970a309ccd2817418302f527080/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_8dd3c0853f7c6c290ec19916ec9c109edb9f4ef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_7bac2117e64c4f748dec239b6993796bee7a9254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/3413af8169a0193452a5973f638622aa49d563fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_f3ec8af76c43516ed01ee3000245bfc4ecf7d2fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/3413af8169a0193452a5973f638622aa49d563fb/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_755b278b9ad7ef90f8069b31e0a1e995d4047e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/61e9676c959d066927b53b11b5dad35471803d4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_1d039866b9a7e0d3c772728a1ce42456f59e9377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/3e51dfada48adc4ce9217f5a0b3195a23bd915a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_9dc5a3b5b9af26ad4b40b63f697430754c1bae11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/66cee9a869550acdb1b823acd7f40a65eddf0fb4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_890d12c3fb1ab67e14f330979b573977d4338fce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.android/build-cache/a9c352351dc369a9a11cdc42018a3c0fc538dc3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_cef085363cd08bdc9f1533372c57e24680080b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/Documents/projects/TouristGuider/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1f32d248ec690bd1fca0677ed1ce2fcc993ec0b9">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/classes_a8ad5b75581a8f7e56ffafa98652262563918e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/majutharan/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/majutharan/Documents/projects/TouristGuider/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_b37d46284eff2c519623b45d185808eac98d5732.jar" />
+    </item>
+
+</items>
